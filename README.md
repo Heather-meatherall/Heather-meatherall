@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src=https://capsule-render.vercel.app/api?type=speech&height=150&&color=0:FC9CCC,100:A70857&text=Hello%20World!&reversal=false&textBg=false&fontColor=#FFFFFF>
+<img src=https://capsule-render.vercel.app/api?type=venom&height=150&&color=0:FC9CCC,100:A70857&text=Hello%20World!&reversal=false&textBg=false&fontColor=#FFFFFF>
 </p>
 
 # About Me
