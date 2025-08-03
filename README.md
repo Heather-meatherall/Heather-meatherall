@@ -53,6 +53,16 @@ hobbies = ["Crochet", "Poetry", "Dungeons and Dragons"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="45" height="45"/>
 </p>
 
+<h1>Check Out Some Of My Work!</h1>
+
+[Dice Roller](https://diceroller.neocities.org/)
+
+[Comparing DnD Stats](https://heather-meatherall.github.io/DnD_Stats/)
+
+[Magic Eight Ball](https://github.com/Heather-meatherall/Heather-Meatherall-Projects/tree/main/magic8)
+
+[Desktop Fox Pet](https://github.com/Heather-meatherall/Heather-Meatherall-Projects/tree/main/DesktopFox)
+
 <h1 align="center">Let's Connect</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/heather-meatherall/">
