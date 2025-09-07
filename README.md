@@ -55,13 +55,15 @@ hobbies = ["Crochet", "Poetry", "Dungeons and Dragons"]
 
 <h1>Check Out Some Of My Work!</h1>
 
-[Dice Roller](https://diceroller.neocities.org/)
+[Dice Roller](https://diceroller.neocities.org/): A dice roller based on the different ways you roll dice in a dnd game
 
-[Comparing DnD Stats](https://heather-meatherall.github.io/DnD_Stats/)
+[Comparing DnD Stats](https://heather-meatherall.github.io/DnD_Stats/): A data visualization of dungeons and dragons stats, both real world and in game
 
-[Magic Eight Ball](https://github.com/Heather-meatherall/Heather-Meatherall-Projects/tree/main/magic8)
+[Magic Eight Ball](https://github.com/Heather-meatherall/Heather-Meatherall-Projects/tree/main/magic8): A random number generator themed after a magic 8 ball
 
-[Desktop Fox Pet](https://github.com/Heather-meatherall/Heather-Meatherall-Projects/tree/main/DesktopFox)
+[Desktop Fox Pet](https://github.com/Heather-meatherall/Heather-Meatherall-Projects/tree/main/DesktopFox): A little guy who sits on your computer and watches you work, and occasionally goes to sleep
+
+[Poetry Portfolio](https://github.com/Heather-meatherall/PoetryPortfolio): When I'm not coding I also write poetry! Check out some of my highlihgts
 
 <h1 align="center">Let's Connect</h1>
 <p align="center">
