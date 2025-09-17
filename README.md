@@ -63,7 +63,7 @@ hobbies = ["Crochet", "Poetry", "Dungeons and Dragons"]
 
 [Desktop Fox Pet](https://github.com/Heather-meatherall/Heather-Meatherall-Projects/tree/main/DesktopFox): A little guy who sits on your computer and watches you work, and occasionally goes to sleep
 
-[Poetry Portfolio](https://github.com/Heather-meatherall/PoetryPortfolio): When I'm not coding I also write poetry! Check out some of my highlihgts
+[Poetry Portfolio](https://github.com/Heather-meatherall/PoetryPortfolio): When I'm not coding I also write poetry! Check out some of my highlights
 
 <h1 align="center">Let's Connect</h1>
 <p align="center">
